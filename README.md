@@ -462,6 +462,3 @@ This project was developed as an academic mini-project for the Database Systems 
 
 ---
 
-<p align="center">
-  <i>Built with ❤ using Python, CustomTkinter & MySQL</i>
-</p>
